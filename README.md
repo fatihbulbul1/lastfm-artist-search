@@ -2,7 +2,7 @@
 
 ![](./screenshot.png)
 
-Live website:
+Live website: https://fatihbulbul1.github.io/artist-search/
 
 # Overview
 
